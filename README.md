@@ -40,22 +40,22 @@
 - Oficinas de programação e level design para alunos de ensino médio
 
 ## EDUCAÇÃO
-🎮**Tecnológico em Jogos Digitais**\
+### 🎮**Tecnológico em Jogos Digitais**
 Universidade Católica de Pernambuco (UNICAP)\
 *(jan 2019 - jul 2022)*
 
-🎬**Bacharelado em Cinema e Audiovisual**\
+### 🎬**Bacharelado em Cinema e Audiovisual**
 Universidade Federal de Pernambuco (UFPE)\
 *(ago 2013 - jul 2017)*
 
 
 ## PRÊMIOS E RECONHECIMENTOS
-- UNICAP (2022)
-  - Certificado de Aluno Destaque
-  - Premiação do TCC (One Bullet Man) nas categorias:
-    - Melhor Jogo
-    - Melhor Arte
-    - Melhor Projeto Inovação
+### UNICAP (2022)
+- Certificado de Aluno Destaque
+- Premiação do TCC (One Bullet Man) nas categorias:
+  - Melhor Jogo
+  - Melhor Arte
+  - Melhor Projeto Inovação
 
 - IFMS (2021)
   - Júri convidado na Side Quest Game Jam
