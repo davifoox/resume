@@ -44,12 +44,12 @@
   (ago 2013 - jul 2017)
 
 # PRÊMIOS E RECONHECIMENTOS
-- UNICAP - Certificado de Aluno Destaque
-  
-- UNICAP - Premiação do TCC (One Bullet Man) nas categorias:
-  - Melhor Jogo
-  - Melhor Arte
-  - Melhor Projeto Inovação
+- UNICAP (2022)
+  - Certificado de Aluno Destaque
+  - Premiação do TCC (One Bullet Man) nas categorias:
+    - Melhor Jogo
+    - Melhor Arte
+    - Melhor Projeto Inovação
 
 - IFMS - Júri convidado na Side Quest Game Jam (2021) 
 
