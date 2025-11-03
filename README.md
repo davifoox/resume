@@ -53,15 +53,17 @@
 
 - IFMS - Júri convidado na Side Quest Game Jam (2021) 
 
-- SBGames (2021) - com o jogo Sleepy Blocks
-  - Menção Honrosa nas categorias:
-      - Melhor Jogo (Júri Técnico)
-      - Melhor Game Design
+- SBGames (2021)
+  - Finalista com o jogo Sleepy Blocks
   - Indicado nas categorias:
     - Melhor Jogo (Júri Técnico)
     - Melhor Game Design
     - Melhor Som
     - Melhor Arte
+  - Menção Honrosa nas categorias:
+    - Melhor Jogo (Júri Técnico)
+    - Melhor Game Design
+
 
 - GMTK (2021)
   - Vencedor com o jogo Sleepy Blocks
