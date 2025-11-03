@@ -1,5 +1,5 @@
 # Davi Fox
-🎮**Game Designer**\
+🎮 **Game Designer**\
 📍Recife, Brasil\
 🔗[LinkedIn](https://www.linkedin.com/in/davi-fox-732a41173/)
 
