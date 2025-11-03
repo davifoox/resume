@@ -80,7 +80,7 @@ Premiação do TCC (One Bullet Man) nas categorias:
 
 ## PROJETOS
 ### Portfólio
-[itch.io](https://davifox.itch.io/)
+🔗 [itch.io](https://davifox.itch.io/)
 
 ### Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE
 *(jan - abr 2022)*\
@@ -123,11 +123,11 @@ Oficina “Crie Seu Próprio Jogo”\
 
 ### IFMS - Side Quest Game Jam 2021
 *(set 2021)*\
-Palestra “Experiências em Game Jams” [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
+Palestra “Experiências em Game Jams” 🔗 [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
 
 ### UNICAP e Rec'n'Play
 *(set 2019)*\
-Oficina "Desenvolvimento de Jogos com a Godot” [YouTube](youtube.com/watch?v=T32a0eIFNbw)
+Oficina "Desenvolvimento de Jogos com a Godot” 🔗 [YouTube](youtube.com/watch?v=T32a0eIFNbw)
 
 ### UNICAP 
 *(abr 2019)*\
