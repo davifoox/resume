@@ -92,8 +92,17 @@
   - Clixit
 
 
-# OFICINAS E PALESTRAS
+# OFICINAS, PALESTRAS E MOSTRAS
+
+- Rec'n'Play (nov 2023)
+  - Mostra do jogo Only Child
+  - Palestra "De dev solo para contratado"
+
+- Rec'n'Play (nov 2022)
+  - Mostra do jogo Clixit
+
 - Oficina “Crie Seu Próprio Jogo” | Semana de Comunicação UNICAP - (nov 2021)
+
 - Palestra “Experiências em Game Jams” | Side Quest Game Jam 2021 - (set 2021)
   youtube.com/watch?v=Nq4ef_yeOz0
   A palestra inicia em: 1:50:40
