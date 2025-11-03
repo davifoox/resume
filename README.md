@@ -27,6 +27,7 @@
 - Integração de elementos de UI;
 - Comunicação constante com o Game Designer da equipe.
 
+
 # EDUCAÇÃO
 ## Graduação em Jogos Digitais
   Universidade Católica de Pernambuco (UNICAP) 
@@ -60,7 +61,8 @@
 
 - SBGames 2019 - Seleção Oficial com o jogo Mixtape Fever
 
-## PROJETOS
+
+# PROJETOS
 - [Inserir link do itch.io]
 - [Inserir link da Google Play Store]
 
