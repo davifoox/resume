@@ -54,38 +54,37 @@ Universidade Federal de Pernambuco (UFPE)\
 
 ## PRÊMIOS E RECONHECIMENTOS
 **UNICAP** *(2022)*\
-🏅 **Certificado de Aluno Destaque**\
-**Premiação do TCC (One Bullet Man) nas categorias:**
-- 🥇 Melhor Jogo
-- 🥇 Melhor Arte
-- 🥇 Projeto Inovação
+- 🏅 **Certificado de Aluno Destaque**
+- **Premiação do TCC (One Bullet Man) nas categorias:**
+  - 🥇 Melhor Jogo
+  - 🥇 Melhor Arte
+  - 🥇 Projeto Inovação
 
-**IFMS** *(2021)*\
-**Júri convidado na Side Quest Game Jam**
+**IFMS** *(2021)*
+- **Júri convidado na Side Quest Game Jam**
 
-**SBGames** *(2021)*\
-**Finalista com o jogo Sleepy Blocks**\
-**Indicado nas categorias:**
-- Melhor Jogo (Júri Técnico)
-- Melhor Game Design
-- Melhor Arte
-- Melhor Som
+**SBGames** *(2021)*
+- **Finalista com o jogo Sleepy Blocks**
+- **Indicado nas categorias:**
+  - Melhor Jogo (Júri Técnico)
+  - Melhor Game Design
+  - Melhor Arte
+  - Melhor Som
 
-**Menção Honrosa nas categorias:**
-- 🏅 Melhor Jogo (Júri Técnico)
-- 🏅 Melhor Game Design
+- **Menção Honrosa nas categorias:**
+  - 🏅 Melhor Jogo (Júri Técnico)
+  - 🏅 Melhor Game Design
 
-**GMTK** *(2021)*\
-🥇 **Vencedor com o jogo Sleepy Blocks**
+**GMTK** *(2021)*
+- 🥇 **Vencedor com o jogo Sleepy Blocks**
 
-**SBGames** *(2019)*\
-**Seleção Oficial com o jogo Mixtape Fever**
+**SBGames** *(2019)*
+- **Seleção Oficial com o jogo Mixtape Fever**
 
 
 ## PROJETOS
-**Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE**\
-*(jan - abr 2022)*\
-Projeto: One Bullet Man
+**Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE** *(jan - abr 2022)*
+- Projeto: One Bullet Man
   
 **Participação em Game Jams**
 - GMTK Game Jam *(2025)*
@@ -104,27 +103,27 @@ Projeto: One Bullet Man
 
 ## OFICINAS, PALESTRAS E MOSTRAS
 
-**Campus Party no Palco Jogo Coletivo + JAM das Minas** *(set 2024)*\
-Palestra "De dev solo para Contratado"
+**Campus Party no Palco Jogo Coletivo + JAM das Minas** *(set 2024)*
+- Palestra "De dev solo para Contratado"
 
-**Rec'n'Play** *(nov 2023)*\
-Atividade "Mostra teu jogo!", com o projeto: Only Child\
-Palestra "De dev solo para contratado"
+**Rec'n'Play** *(nov 2023)*
+- Atividade "Mostra teu jogo!", com o projeto: Only Child
+- Palestra "De dev solo para contratado"
 
-**Rec'n'Play** *(nov 2022)*\
-Atividade "Mostra teu jogo!", com o projeto: Clixit
+**Rec'n'Play** *(nov 2022)*
+- Atividade "Mostra teu jogo!", com o projeto: Clixit
 
-**Semana de Comunicação UNICAP** *(nov 2021)*\
-Oficina “Crie Seu Próprio Jogo”
+**Semana de Comunicação UNICAP** *(nov 2021)*
+- Oficina “Crie Seu Próprio Jogo”
 
-**IFMS - Side Quest Game Jam 2021** *(set 2021)*\
-Palestra “Experiências em Game Jams” 🔗 [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
+**IFMS - Side Quest Game Jam 2021** *(set 2021)*
+- Palestra “Experiências em Game Jams” 🔗 [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
 
-**UNICAP e Rec'n'Play** *(set 2019)*\
-Oficina "Desenvolvimento de Jogos com a Godot” 🔗 [YouTube](youtube.com/watch?v=T32a0eIFNbw)
+**UNICAP e Rec'n'Play** *(set 2019)*
+- Oficina "Desenvolvimento de Jogos com a Godot” 🔗 [YouTube](youtube.com/watch?v=T32a0eIFNbw)
 
-**UNICAP** *(abr 2019)*\
-Workshop "Level Design no Unity”
+**UNICAP** *(abr 2019)*
+- Workshop "Level Design no Unity”
 
 
 ## HABILIDADES
