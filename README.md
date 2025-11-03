@@ -118,7 +118,7 @@
     youtube.com/watch?v=T32a0eIFNbw
 
 - UNICAP (abr 2019) 
-  - Workshop "Level Design no Unity” | 
+  - Workshop "Level Design no Unity”
 
 
 # HABILIDADES
