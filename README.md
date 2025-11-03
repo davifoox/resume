@@ -40,13 +40,13 @@ Recife, Brasil\
 - Oficinas de programação e level design para alunos de ensino médio
 
 ## EDUCAÇÃO
-**Graduação em Jogos Digitais**
-- Universidade Católica de Pernambuco (UNICAP) 
-  (jan 2019 - jul 2022)
+**Tecnológico em Jogos Digitais**\
+Universidade Católica de Pernambuco (UNICAP)\
+*(jan 2019 - jul 2022)*
 
-**Graduação em Cinema e Audiovisual**
-- Universidade Federal de Pernambuco (UFPE) 
-  (ago 2013 - jul 2017)
+**Bacharelado em Cinema e Audiovisual**\
+Universidade Federal de Pernambuco (UFPE) 
+*(ago 2013 - jul 2017)*
 
 
 ## PRÊMIOS E RECONHECIMENTOS
