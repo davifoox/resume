@@ -95,8 +95,7 @@ Projeto: One Bullet Man
 - Global Game Jam (2020)
 - Noord Game Jam (2019)
 - Mix and Game Jam (2019)
-- Game Jam + (2019)
-  - gamejolt.com/games/pyramidescape/430733
+- Game Jam + (2019) [Pyramide Scape](gamejolt.com/games/pyramidescape/430733)
 - GMTK Game Jam (2018)
 - Godot Community Jam (2018)
 - JimJam (2018)
