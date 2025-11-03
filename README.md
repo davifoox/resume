@@ -3,6 +3,9 @@
 📍 Recife, Brasil\
 🔗 [LinkedIn](https://www.linkedin.com/in/davi-fox-732a41173/)
 
+## PORTFÓLIO
+🔗 [itch.io](https://davifox.itch.io/)
+
 ## EXPERIÊNCIA PROFISSIONAL
 
 🎮 **Game Designer | Afterverse**\
@@ -80,9 +83,6 @@ Universidade Federal de Pernambuco (UFPE)\
 
 
 ## PROJETOS
-**Portfólio**\
-🔗 [itch.io](https://davifox.itch.io/)
-
 **Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE**\
 *(jan - abr 2022)*\
 Projeto: One Bullet Man
