@@ -66,7 +66,7 @@ Universidade Federal de Pernambuco (UFPE)\
 - Melhor Jogo (Júri Técnico)
 - Melhor Game Design
 - Melhor Arte
-- Melhor Som
+- Melhor Som\
 **Menção Honrosa nas categorias:**
 - 🏅 Melhor Jogo (Júri Técnico)
 - 🏅 Melhor Game Design
