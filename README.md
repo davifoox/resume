@@ -104,7 +104,7 @@
 
 # OFICINAS, PALESTRAS E MOSTRAS
 
-- Campus Party (set 2024) no Palco Jogo Coletivo + JAM das Minas
+- Campus Party no Palco Jogo Coletivo + JAM das Minas (set 2024)
   - Palestra "De dev solo para Contratado"
 
 - Rec'n'Play (nov 2023)
