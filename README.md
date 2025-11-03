@@ -43,7 +43,7 @@ Universidade Católica de Pernambuco (UNICAP)
 Universidade Federal de Pernambuco (UFPE) 
 (ago 2013 - jul 2017)
 
-## PRÊMIOS E RECONHECIMENTOS
+# PRÊMIOS E RECONHECIMENTOS
 - UNICAP - Certificado de Aluno Destaque
   
 - UNICAP - Premiação do TCC (One Bullet Man) nas categorias:
