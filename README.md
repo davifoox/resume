@@ -2,37 +2,37 @@
 
 **Game Designer | Afterverse**
 (jun 2023 - atualmente)
-- Design de mecânicas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente);
-- Documentação, resolução de problemas, balanceamento, trabalho em equipe;
-- Prototipagem, iterações rápidas de ideias;
+- Design de mecânicas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente)
+- Documentação, resolução de problemas, balanceamento, trabalho em equipe
+- Prototipagem, iterações rápidas de ideias
 
 **Game Designer | OPA Games (antes GDS Games)**
 (nov 2022 - jun 2023)
-- Líder do time de game designers;
-- Design de sistemas, balanceamento e testagem de projeto em andamento;
-- Prototipagem;
+- Líder do time de game designers
+- Design de sistemas, balanceamento e testagem de projeto em andamento
+- Prototipagem
 
 **Game Designer | Manifesto Games (Estágio)**
 (set 2021 - mar 2022)
-- Balanceamento de mecânicas;
-- Level Design;
-- Criação e atualização de GDD;
-- Prototipagem;
-- Estratégias de monetização;
+- Balanceamento de mecânicas
+- Level Design
+- Criação e atualização de GDD
+- Prototipagem
+- Estratégias de monetização
 - Comunicação constante com todas as pessoas da equipe.
 
 **Programador | PUGA Studios**
 (fev 2020 - jul 2020)
-- Desenvolvimento de mecânicas para jogo mobile hyper casual 3D;
-- Desenvolvimento de mecânicas para jogo mobile de estratégia;
-- Integração de elementos de UI;
+- Desenvolvimento de mecânicas para jogo mobile hyper casual 3D
+- Desenvolvimento de mecânicas para jogo mobile de estratégia
+- Integração de elementos de UI
 - Comunicação constante com o Game Designer da equipe.
 
 **Programador | Agência Combogó - UNICAP (Estágio)**
 (mar 2019 - fev 2020)
-- Desenvolvimento de projeto VR para prefeitura do Recife;
-- Desenvolvimento de projetos internos da UNICAP;
-- Oficinas de programação e level design para alunos de ensino médio;
+- Desenvolvimento de projeto VR para prefeitura do Recife
+- Desenvolvimento de projetos internos da UNICAP
+- Oficinas de programação e level design para alunos de ensino médio
 
 # EDUCAÇÃO
 **Graduação em Jogos Digitais**
@@ -47,21 +47,21 @@ Universidade Federal de Pernambuco (UFPE)
 - UNICAP - Certificado de Aluno Destaque
   
 - UNICAP - Premiação do TCC (One Bullet Man) nas categorias:
-  - Melhor Jogo;
-  - Melhor Arte;
-  - Melhor Projeto Inovação;
+  - Melhor Jogo
+  - Melhor Arte
+  - Melhor Projeto Inovação
 
 - IFMS - Júri convidado na Side Quest Game Jam (2021) 
 
 - SBGames (2021) - com o jogo Sleepy Blocks
   - Menção Honrosa nas categorias:
-      - Melhor Jogo (Júri Técnico);
-      - Melhor Game Design;
+      - Melhor Jogo (Júri Técnico)
+      - Melhor Game Design
   - Indicado nas categorias:
-    - Melhor Jogo (Júri Técnico);
-    - Melhor Game Design;
-    - Melhor Som;
-    - Melhor Arte;
+    - Melhor Jogo (Júri Técnico)
+    - Melhor Game Design
+    - Melhor Som
+    - Melhor Arte
 
 - GMTK (2021)
   - Vencedor com o jogo Sleepy Blocks
