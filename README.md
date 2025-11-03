@@ -53,7 +53,7 @@ Universidade Federal de Pernambuco (UFPE)\
 
 
 ## PRÊMIOS E RECONHECIMENTOS
-**UNICAP** *(2022)*\
+**UNICAP** *(2022)*
 - 🏅 **Certificado de Aluno Destaque**
 - **Premiação do TCC (One Bullet Man) nas categorias:**
   - 🥇 Melhor Jogo
