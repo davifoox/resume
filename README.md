@@ -60,7 +60,7 @@ Universidade Federal de Pernambuco (UFPE)\
 **IFMS** *(2021)*\
 **Júri convidado na Side Quest Game Jam**
 
-**SBGames** *(2021)*
+**SBGames** *(2021)*\
 **Finalista com o jogo Sleepy Blocks**\
 **Indicado nas categorias:**
 - Melhor Jogo (Júri Técnico)
