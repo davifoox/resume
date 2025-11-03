@@ -55,8 +55,8 @@ Universidade Federal de Pernambuco (UFPE)
 
 - SBGames (2021) - com o jogo Sleepy Blocks
   - Menção Honrosa nas categorias:
-      - Melhor Jogo (Júri Técnico)
-      - Melhor Game Design
+      - Melhor Jogo (Júri Técnico);
+      - Melhor Game Design;
   - Indicado nas categorias:
     - Melhor Jogo (Júri Técnico);
     - Melhor Game Design;
