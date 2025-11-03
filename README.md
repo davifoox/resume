@@ -5,19 +5,19 @@
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-### 🎮 **Game Designer | Afterverse**
+**🎮 **Game Designer | Afterverse**\
 *(jun 2023 - atualmente)*
 - Design de mecânicas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente)
 - Documentação, resolução de problemas, balanceamento, trabalho em equipe
 - Prototipagem, iterações rápidas de ideias
 
-### 🎮 **Game Designer | OPA Games**
+🎮 **Game Designer | OPA Games**\
 *(nov 2022 - jun 2023)*
 - Líder do time de game designers
 - Design de sistemas, balanceamento e testagem de projeto em andamento
 - Prototipagem
 
-### 🎮 **Game Designer | Manifesto Games (Estágio)**
+🎮 **Game Designer | Manifesto Games (Estágio)**\
 *(set 2021 - mar 2022)*
 - Balanceamento de mecânicas
 - Level Design
@@ -26,41 +26,41 @@
 - Estratégias de monetização
 - Comunicação constante com todas as pessoas da equipe.
 
-### 💻 **Programador | PUGA Studios**
+💻 **Programador | PUGA Studios**\
 *(fev 2020 - jul 2020)*
 - Desenvolvimento de mecânicas para jogo mobile hyper casual 3D
 - Desenvolvimento de mecânicas para jogo mobile de estratégia
 - Integração de elementos de UI
 - Comunicação constante com o Game Designer da equipe.
 
-### 💻 **Programador | Agência Combogó - UNICAP (Estágio)**
+💻 **Programador | Agência Combogó - UNICAP (Estágio)**\
 *(mar 2019 - fev 2020)*
 - Desenvolvimento de projeto VR para prefeitura do Recife
 - Desenvolvimento de projetos internos da UNICAP
 - Oficinas de programação e level design para alunos de ensino médio
 
 ## EDUCAÇÃO
-### 🎮 **Tecnológico em Jogos Digitais**
+🎮 **Tecnológico em Jogos Digitais**\
 Universidade Católica de Pernambuco (UNICAP)\
 *(jan 2019 - jul 2022)*
 
-### 🎬 **Bacharelado em Cinema e Audiovisual**
+🎬 **Bacharelado em Cinema e Audiovisual**\
 Universidade Federal de Pernambuco (UFPE)\
 *(ago 2013 - jul 2017)*
 
 
 ## PRÊMIOS E RECONHECIMENTOS
-### UNICAP (2022)
+**UNICAP (2022)**\
 🏅 Certificado de Aluno Destaque\
 Premiação do TCC (One Bullet Man) nas categorias:
 - 🥇 Melhor Jogo
 - 🥇 Melhor Arte
 - 🥇 Projeto Inovação
 
-### IFMS (2021)
+**IFMS (2021)**\
 - Júri convidado na Side Quest Game Jam
 
-### SBGames (2021)
+**SBGames (2021)**\
 - Finalista com o jogo Sleepy Blocks
 - Indicado nas categorias:
   - Melhor Jogo (Júri Técnico)
@@ -71,10 +71,10 @@ Premiação do TCC (One Bullet Man) nas categorias:
   - 🏅 Melhor Jogo (Júri Técnico)
   - 🏅 Melhor Game Design
 
-### GMTK (2021)
+**GMTK (2021)**\
 - 🥇 Vencedor com o jogo Sleepy Blocks
 
-### SBGames (2019)
+**SBGames (2019)**\
 - Seleção Oficial com o jogo Mixtape Fever
 
 
@@ -86,7 +86,7 @@ Premiação do TCC (One Bullet Man) nas categorias:
 *(jan - abr 2022)*\
 Projeto: One Bullet Man
   
-### Participação em Game Jams
+**Participação em Game Jams**\
 - GMTK Game Jam (2025)
 - GMTK Game Jam (2024)
 - GMTK Game Jam (2021)
@@ -104,52 +104,52 @@ Projeto: One Bullet Man
 
 ## OFICINAS, PALESTRAS E MOSTRAS
 
-### Campus Party no Palco Jogo Coletivo + JAM das Minas
+**Campus Party no Palco Jogo Coletivo + JAM das Minas**\
 *(set 2024)*\
 Palestra "De dev solo para Contratado"
 
-### Rec'n'Play
+**Rec'n'Play**\
 *(nov 2023)*\
 Atividade "Mostra teu jogo!", com o projeto: Only Child\
 Palestra "De dev solo para contratado"
 
-### Rec'n'Play
+**Rec'n'Play**\
 *(nov 2022)*\
 Atividade "Mostra teu jogo!", com o projeto: Clixit
 
-### Semana de Comunicação UNICAP
+**Semana de Comunicação UNICAP**\
 *(nov 2021)*\
 Oficina “Crie Seu Próprio Jogo”
 
-### IFMS - Side Quest Game Jam 2021
+**IFMS - Side Quest Game Jam 2021**\
 *(set 2021)*\
 Palestra “Experiências em Game Jams” 🔗 [YouTube](youtube.com/watch?v=Nq4ef_yeOz0) (inicia em: 1:50:40)
 
-### UNICAP e Rec'n'Play
+**UNICAP e Rec'n'Play**\
 *(set 2019)*\
 Oficina "Desenvolvimento de Jogos com a Godot” 🔗 [YouTube](youtube.com/watch?v=T32a0eIFNbw)
 
-### UNICAP 
+**UNICAP**\
 *(abr 2019)*\
 Workshop "Level Design no Unity”
 
 
 ## HABILIDADES
-- Linguagens de programação
-  - C#
-  - GDScript
+**Linguagens de programação**\
+- C#
+- GDScript
 
-- Idiomas
-  - Inglês avançado
+**Idiomas**\
+- Inglês avançado
 
-- Ferramentas
-  - Unity
-  - Godot
-  - Excel
-  - Premiere
-  - Photoshop
-  - Ableton Live
-  - Aseprite
-  - Sourcetree
-  - Trello
-  - Jira
+**Ferramentas**\
+- Unity
+- Godot
+- Excel
+- Premiere
+- Photoshop
+- Ableton Live
+- Aseprite
+- Sourcetree
+- Trello
+- Jira
