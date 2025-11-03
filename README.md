@@ -83,7 +83,8 @@ Universidade Federal de Pernambuco (UFPE)\
 
 
 ## PROJETOS
-**Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE** *(jan - abr 2022)*
+**Lei Aldir Blanc PE** *(jan - abr 2022)*\
+**Edital de Criação, Fruição e Difusão**
 - Projeto: One Bullet Man
   
 **Participação em Game Jams**
