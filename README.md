@@ -79,11 +79,12 @@ Premiação do TCC (One Bullet Man) nas categorias:
 
 
 ## PROJETOS
-- [Inserir link do itch.io]
-- [Inserir link da Google Play Store]
+### Portfólio
+[itch.io](https://davifox.itch.io/)
 
-- Edital de Criação, Fruição e Difusão - Lei Aldir Blanc PE (jan - abr 2022)
-  - Projeto: One Bullet Man
+### Edital de Criação, Fruição e Difusão
+Lei Aldir Blanc PE *(jan - abr 2022)*\
+Projeto: One Bullet Man
   
 - Participação em Game Jams
   - GMTK Game Jam (2025)
