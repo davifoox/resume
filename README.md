@@ -3,10 +3,16 @@
 📍 Recife, Brasil\
 🔗 [LinkedIn](https://www.linkedin.com/in/davi-fox-732a41173/)
 
-## PORTFÓLIO
-🔗 [itch.io](https://davifox.itch.io/)
+<details open>
+<summary><h2>PORTFÓLIO</h2></summary><br>
 
-## EXPERIÊNCIA PROFISSIONAL
+🔗 [itch.io](https://davifox.itch.io/)
+</details>
+
+---
+
+<details open>
+<summary><h2>EXPERIÊNCIA PROFISSIONAL</h2></summary><br>
 
 🎮 **Game Designer | Afterverse**\
 *(jun 2023 - atualmente)*
@@ -41,8 +47,13 @@
 - Desenvolvimento de projeto VR para prefeitura do Recife
 - Desenvolvimento de projetos internos da UNICAP
 - Oficinas de programação e level design para alunos de ensino médio
+</details>
 
-## EDUCAÇÃO
+---
+
+<details open>
+<summary><h2>EDUCAÇÃO</h2></summary><br>
+
 🎓 **Jogos Digitais**\
 Universidade Católica de Pernambuco (UNICAP)\
 *(jan 2019 - jul 2022)*
@@ -50,6 +61,9 @@ Universidade Católica de Pernambuco (UNICAP)\
 🎓 **Cinema e Audiovisual**\
 Universidade Federal de Pernambuco (UFPE)\
 *(ago 2013 - jul 2017)*
+</details>
+
+---
 
 <details>
 <summary><h2>PRÊMIOS E RECONHECIMENTOS</h2></summary><br>
