@@ -51,8 +51,9 @@ Universidade Católica de Pernambuco (UNICAP)\
 Universidade Federal de Pernambuco (UFPE)\
 *(ago 2013 - jul 2017)*
 
+<details>
+<summary><h2>PRÊMIOS E RECONHECIMENTOS</h2></summary><br>
 
-## PRÊMIOS E RECONHECIMENTOS
 **UNICAP** *(2022)*
 - 🏅 **Certificado de Aluno Destaque**
 - **Premiação do TCC (One Bullet Man) nas categorias:**
@@ -80,9 +81,13 @@ Universidade Federal de Pernambuco (UFPE)\
 
 **SBGames** *(2019)*
 - **Seleção Oficial com o jogo Mixtape Fever**
+</details>
 
+---
 
-## PROJETOS
+<details>
+<summary><h2>PROJETOS</h2></summary><br>
+
 **Lei Aldir Blanc PE** *(jan - abr 2022)*\
 **Edital de Criação, Fruição e Difusão**
 - Projeto: One Bullet Man
@@ -100,9 +105,12 @@ Universidade Federal de Pernambuco (UFPE)\
 - GMTK Game Jam *(2018)*
 - Godot Community Jam *(2018)*
 - JimJam *(2018)*
+</details>
 
+---
 
-## OFICINAS, PALESTRAS E MOSTRAS
+<details>
+<summary><h2>OFICINAS, PALESTRAS E MOSTRAS</h2></summary><br>
 
 **Campus Party no Palco Jogo Coletivo + JAM das Minas** *(set 2024)*
 - Palestra "De dev solo para Contratado"
@@ -125,9 +133,13 @@ Universidade Federal de Pernambuco (UFPE)\
 
 **UNICAP** *(abr 2019)*
 - Workshop "Level Design no Unity”
+</details>
 
+---
 
-## HABILIDADES
+<details>
+<summary><h2>HABILIDADES</h2></summary><br>
+
 **Linguagens de programação**
 - C#
 - GDScript
@@ -146,3 +158,6 @@ Universidade Federal de Pernambuco (UFPE)\
 - Sourcetree
 - Trello
 - Jira
+</details>
+
+---
