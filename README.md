@@ -17,7 +17,7 @@
 <summary><h2>EXPERIÊNCIA PROFISSIONAL</h2></summary><br>
 
 🎮 **Game Designer | Afterverse**\
-*(jun 2023 - abr 2026)*
+*(jun 2023 - mai 2026)*
 - Design de mecânicas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente)
 - Documentação, resolução de problemas, balanceamento, trabalho em equipe
 - Prototipagem, iterações rápidas de ideias
