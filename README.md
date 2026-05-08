@@ -18,7 +18,7 @@
 
 🎮 **Game Designer | Afterverse**\
 *(jun 2023 - mai 2026)*
-- Design de mecânicas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente)
+- Design de mecânicas, sistemas, minigames, narrativa, atualizações para o jogo PK XD (milhões de usuários diariamente)
 - Documentação, resolução de problemas, balanceamento, trabalho em equipe
 - Prototipagem, iterações rápidas de ideias
 
