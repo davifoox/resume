@@ -166,14 +166,13 @@ Universidade Federal de Pernambuco (UFPE)\
 **Ferramentas**
 - Unity
 - Godot
-- Excel
-- Premiere
-- Photoshop
-- Ableton Live
+- Excel/Sheets
+- Git
+- Clickup/Monday/Trello
+- Photoshop/Affinity
 - Aseprite
-- Sourcetree
-- Trello
-- Jira
+- Premiere Pro
+- Ableton Live
 </details>
 
 ---
